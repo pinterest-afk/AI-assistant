@@ -1,0 +1,13 @@
+{
+  "session_id": "b7c4f50c-6438-4598-9d0d-04b76f32b0a8",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, search the web, open sites or apps, play music or videos, generate text or images, write code, essays or emails, and help you plan or analyze ideas—all from your Windows laptop."
+    }
+  ]
+}

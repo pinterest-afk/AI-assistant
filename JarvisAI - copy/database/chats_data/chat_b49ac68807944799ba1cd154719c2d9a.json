@@ -1,0 +1,21 @@
+{
+  "session_id": "b49ac688-0794-4799-ba1c-d154719c2d9a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer questions, search the web, open sites or apps, play music or videos, generate text or images, write code, essays or emails, and help you plan or analyze ideas on your Windows laptop. Just tell me what you need, Sir."
+    },
+    {
+      "role": "user",
+      "content": "open YT and play envelop"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened YouTube for you. I've started playing that for you."
+    }
+  ]
+}
